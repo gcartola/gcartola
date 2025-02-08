@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá! Eu sou o Guilherme Cartolano 👋
 
-<!--
-**gcartola/gcartola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Estudante de Análise de Dados | Supply Chain Analysis | SQL | Python**
 
-Here are some ideas to get you started:
+🚀 Buscando transformar dados em insights estratégicos!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Atualmente estudando**:
+- 📊 **Análise de Dados** pelo [Google Data Analytics Certificate (Coursera)](https://www.coursera.org/professional-certificates/google-data-analytics)
+- 📦 **Supply Chain Analysis** pelo [edX](https://www.edx.org/)
+
+🔍 **Habilidades em desenvolvimento**:
+- 📈 Análise Exploratória de Dados (EDA)
+- 🐍 Python para Ciência de Dados
+- 🔢 SQL para manipulação de bancos de dados
+- 📊 Visualização de Dados com Power BI e Tableau
+- ⚙️ Processos de Supply Chain e Logística baseada em dados
+
+🎓 **Formação Acadêmica**:
+- **Bacharelado em Engenharia Ambiental** pela [Universidade Federal do Triângulo Mineiro) *(2012- 2020)*
+
+📫 **Conecte-se comigo**:
+- ✉️ E-mail: cartolanoguilherme@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-cartolano/)
+
+💡 Sempre aprendendo e compartilhando conhecimento!
